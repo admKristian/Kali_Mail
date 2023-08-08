@@ -31,8 +31,13 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Outlook">
+      <HintPath>packages\Microsoft.Office.Interop.Outlook.15.0.4797.1004\lib\net20\Microsoft.Office.Interop.Outlook.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
-    <Reference Include="System.Activities" />
+    <Reference Include="System.Activities">
+	  <HintPath>C:\Users\iveri\AppData\Local\Programs\UiPath\Studio\System.Activities.dll</HintPath>
+		</Reference>
     <Reference Include="System.ComponentModel.Composition" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -45,6 +50,9 @@
   <ItemGroup>
     <Compile Include="Send_Mail.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
