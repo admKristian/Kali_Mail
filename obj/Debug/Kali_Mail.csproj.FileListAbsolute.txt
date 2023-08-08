@@ -1,0 +1,6 @@
+C:\Users\iverikri\Desktop\Projects\Jobb\Kali_Mail\Kali_Mail\bin\Debug\Kali_Mail.dll
+C:\Users\iverikri\Desktop\Projects\Jobb\Kali_Mail\Kali_Mail\bin\Debug\Kali_Mail.pdb
+C:\Users\iverikri\Desktop\Projects\Jobb\Kali_Mail\Kali_Mail\obj\Debug\Kali_Mail.csproj.AssemblyReference.cache
+C:\Users\iverikri\Desktop\Projects\Jobb\Kali_Mail\Kali_Mail\obj\Debug\Kali_Mail.csproj.CoreCompileInputs.cache
+C:\Users\iverikri\Desktop\Projects\Jobb\Kali_Mail\Kali_Mail\obj\Debug\Kali_Mail.dll
+C:\Users\iverikri\Desktop\Projects\Jobb\Kali_Mail\Kali_Mail\obj\Debug\Kali_Mail.pdb
